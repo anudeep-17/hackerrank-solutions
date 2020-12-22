@@ -58,6 +58,7 @@ for(int n = a; n<=b; n++)
         else printf("odd\n");
     }
 
+
 }
     return 0;
 }
