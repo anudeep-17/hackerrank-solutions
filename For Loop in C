@@ -42,6 +42,7 @@ for(int n = a; n<=b; n++)
     }
      else if(n == 8)
     {
+    
         printf("eight\n");
     }
      else if(n == 9)
